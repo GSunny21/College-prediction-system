@@ -1,0 +1,827 @@
+College Name,Rank,Branch
+"College of Engineering, Pune",42,Computer
+"College of Engineering, Pune",56,Computer
+"College of Engineering, Pune",61,Computer
+"College of Engineering, Pune",74,Computer
+"College of Engineering, Pune",79,Computer
+"College of Engineering, Pune",84,Computer
+"College of Engineering, Pune",94,EnTC
+"College of Engineering, Pune",97,Computer
+"Veermata Jijabai Technological Institute, Mumbai",99,Computer
+"Veermata Jijabai Technological Institute, Mumbai",100,Computer
+"Veermata Jijabai Technological Institute, Mumbai",101,Computer
+"Veermata Jijabai Technological Institute, Mumbai",102,Computer
+"Veermata Jijabai Technological Institute, Mumbai",103,Computer
+"Veermata Jijabai Technological Institute, Mumbai",108,Computer
+"Veermata Jijabai Technological Institute, Mumbai",110,Computer
+"Veermata Jijabai Technological Institute, Mumbai",111,Computer
+"College of Engineering, Pune",141,EnTC
+"Sardar Patel Institute of Technology , Andheri, Mumbai",151,Computer
+"Sardar Patel Institute of Technology , Andheri, Mumbai",169,Computer
+"Sardar Patel Institute of Technology , Andheri, Mumbai",182,Computer
+"Sardar Patel Institute of Technology , Andheri, Mumbai",199,Computer
+"College of Engineering, Pune",200,EnTC
+"Sardar Patel Institute of Technology , Andheri, Mumbai",201,Computer
+"Veermata Jijabai Technological Institute, Mumbai",202,IT
+"Sardar Patel Institute of Technology , Andheri, Mumbai",216,Computer
+"Sardar Patel Institute of Technology , Andheri, Mumbai",239,Computer
+"College of Engineering, Pune",247,EnTC
+"Sardar Patel Institute of Technology , Andheri, Mumbai",254,Computer
+"Sardar Patel Institute of Technology , Andheri, Mumbai",278,Computer
+"Bharatiya Vidya Bhavan's Sardar Patel College of Engineering, Mumbai",281,Computer
+"Bharatiya Vidya Bhavan's Sardar Patel College of Engineering, Mumbai",299,Computer
+"Bharatiya Vidya Bhavan's Sardar Patel College of Engineering, Mumbai",302,Computer
+"Bharatiya Vidya Bhavan's Sardar Patel College of Engineering, Mumbai",314,Computer
+"Veermata Jijabai Technological Institute, Mumbai",340,IT
+"Bharatiya Vidya Bhavan's Sardar Patel College of Engineering, Mumbai",346,Computer
+"College of Engineering, Pune",378,EnTC
+"PICT College, Pune",379,Computer
+"Veermata Jijabai Technological Institute, Mumbai",380,EnTC
+"PICT College, Pune",381,Computer
+"PICT College, Pune",394,Computer
+"Veermata Jijabai Technological Institute, Mumbai",399,EnTC
+"Veermata Jijabai Technological Institute, Mumbai",400,EnTC
+"PICT College, Pune",401,Computer
+"PICT College, Pune",421,Computer
+"PICT College, Pune",425,Computer
+"PICT College, Pune",427,Computer
+"Veermata Jijabai Technological Institute, Mumbai",454,EnTC
+"Veermata Jijabai Technological Institute, Mumbai",489,EnTC
+"Walchand College of Engineering, Sangli",500,EnTC
+"Veermata Jijabai Technological Institute, Mumbai",567,IT
+"Walchand College of Engineering, Sangli",657,Computer
+"Veermata Jijabai Technological Institute, Mumbai",741,IT
+"Walchand College of Engineering, Sangli",800,EnTC
+"Walchand College of Engineering, Sangli",801,Computer
+"Veermata Jijabai Technological Institute, Mumbai",812,IT
+"Walchand College of Engineering, Sangli",957,Computer
+"Walchand College of Engineering, Sangli",999,EnTC
+"Walchand College of Engineering, Sangli",1000,Computer
+"Walchand College of Engineering, Sangli",1000,EnTC
+"Walchand College of Engineering, Sangli",1019,Computer
+"Walchand College of Engineering, Sangli",1019,EnTC
+"Dwarkadas J. Sanghvi College of Engineering, Mumbai",1036,Computer
+"PICT College, Pune",1066,IT
+"Dwarkadas J. Sanghvi College of Engineering, Mumbai",1074,Computer
+"Dwarkadas J. Sanghvi College of Engineering, Mumbai",1091,Computer
+"Dwarkadas J. Sanghvi College of Engineering, Mumbai",1119,Computer
+"Dwarkadas J. Sanghvi College of Engineering, Mumbai",1174,Computer
+"Dwarkadas J. Sanghvi College of Engineering, Mumbai",1195,Computer
+"Dwarkadas J. Sanghvi College of Engineering, Mumbai",1201,Computer
+"PICT College, Pune",1204,IT
+"Sardar Patel Institute of Technology , Andheri, Mumbai",1222,EnTC
+"Vishwakarma Institute of Technology, Pune",1310,Computer
+"PICT College, Pune",1346,IT
+"Vishwakarma Institute of Technology, Pune",1348,Computer
+"Vishwakarma Institute of Technology, Pune",1359,Computer
+"Vishwakarma Institute of Technology, Pune",1407,Computer
+"Vishwakarma Institute of Technology, Pune",1444,Computer
+"College of Engineering, Pune",1458,Civil
+"Vishwakarma Institute of Technology, Pune",1473,Computer
+"PICT College, Pune",1492,IT
+"Vishwakarma Institute of Technology, Pune",1501,Computer
+"Sardar Patel Institute of Technology , Andheri, Mumbai",1541,EnTC
+"Sardar Patel Institute of Technology , Andheri, Mumbai",1555,EnTC
+"Vishwakarma Institute of Technology, Pune",1570,Computer
+"PICT College, Pune",1597,IT
+"College of Engineering, Pune",1675,Mechanical
+"Dwarkadas J. Sanghvi College of Engineering, Mumbai",1689,IT
+"College of Engineering, Pune",1700,Mechanical
+"Dwarkadas J. Sanghvi College of Engineering, Mumbai",1703,IT
+"Pimpri Chinchwad College of Engineering, Pune",1712,Computer
+"College of Engineering, Pune",1750,Mechanical
+"Sardar Patel Institute of Technology , Andheri, Mumbai",1820,EnTC
+"Pimpri Chinchwad College of Engineering, Pune",1842,Computer
+"College of Engineering, Pune",1875,Mechanical
+"Dwarkadas J. Sanghvi College of Engineering, Mumbai",1894,IT
+"College of Engineering, Pune",1902,Mechanical
+"Sardar Patel Institute of Technology , Andheri, Mumbai",1965,EnTC
+"Bharatiya Vidya Bhavan's Sardar Patel College of Engineering, Mumbai",1970,EnTC
+"Dwarkadas J. Sanghvi College of Engineering, Mumbai",1974,IT
+"Bharatiya Vidya Bhavan's Sardar Patel College of Engineering, Mumbai",1981,EnTC
+"Bharatiya Vidya Bhavan's Sardar Patel College of Engineering, Mumbai",1987,EnTC
+"Bharatiya Vidya Bhavan's Sardar Patel College of Engineering, Mumbai",1999,EnTC
+"Veermata Jijabai Technological Institute, Mumbai",2000,Mechanical
+"Bharatiya Vidya Bhavan's Sardar Patel College of Engineering, Mumbai",2000,EnTC
+"Veermata Jijabai Technological Institute, Mumbai",2048,Mechanical
+"Veermata Jijabai Technological Institute, Mumbai",2100,Mechanical
+"PICT College, Pune",2111,EnTC
+"Dwarkadas J. Sanghvi College of Engineering, Mumbai",2112,IT
+"Veermata Jijabai Technological Institute, Mumbai",2125,Mechanical
+"Vishwakarma Institute of Technology, Pune",2202,IT
+"Pimpri Chinchwad College of Engineering, Pune",2209,Computer
+"PICT College, Pune",2222,EnTC
+"Vishwakarma Institute of Technology, Pune",2324,IT
+"Pimpri Chinchwad College of Engineering, Pune",2333,Computer
+"PICT College, Pune",2357,EnTC
+"Pimpri Chinchwad College of Engineering, Pune",2436,Computer
+"Vishwakarma Institute of Technology, Pune",2497,IT
+"Thadomal Shahani Engineering College, Mumbai",2499,Computer
+"Veermata Jijabai Technological Institute, Mumbai",2500,Mechanical
+"PICT College, Pune",2500,EnTC
+"Thadomal Shahani Engineering College, Mumbai",2594,Computer
+"PICT College, Pune",2596,EnTC
+"Thadomal Shahani Engineering College, Mumbai",2610,Computer
+"College of Engineering, Pune",2615,Civil
+"Thadomal Shahani Engineering College, Mumbai",2811,Computer
+"Thadomal Shahani Engineering College, Mumbai",2822,Computer
+"Cummins College of Engineering for Women, Pune",2835,Computer
+"Vishwakarma Institute of Technology, Pune",2861,IT
+"Vishwakarma Institute of Technology, Pune",2877,EnTC
+"Cummins College of Engineering for Women, Pune",2899,Computer
+"Cummins College of Engineering for Women, Pune",2917,Computer
+"Cummins College of Engineering for Women, Pune",2925,Computer
+"Cummins College of Engineering for Women, Pune",2930,Computer
+"Vishwakarma Institute of Technology, Pune",2941,IT
+"Vivekanand Education Society's Institute of Technology, Chembur, Mumbai",2955,Computer
+"Vivekanand Education Society's Institute of Technology, Chembur, Mumbai",2971,Computer
+"Vishwakarma Institute of Technology, Pune",3000,EnTC
+"Pimpri Chinchwad College of Engineering, Pune",3048,IT
+"Pimpri Chinchwad College of Engineering, Pune",3079,IT
+"Pimpri Chinchwad College of Engineering, Pune",3102,IT
+"College of Engineering, Pune",3156,Civil
+"Pimpri Chinchwad College of Engineering, Pune",3196,IT
+"Pimpri Chinchwad College of Engineering, Pune",3247,IT
+"Thadomal Shahani Engineering College, Mumbai",3292,IT
+"College of Engineering, Pune",3309,Civil
+"Thadomal Shahani Engineering College, Mumbai",3314,IT
+"Thadomal Shahani Engineering College, Mumbai",3471,IT
+Bharatiya Vidya Bhavan's Sardar Patel College of Engineering Mumbai,3500,Mechanical
+"Thadomal Shahani Engineering College, Mumbai",3516,IT
+"Vivekanand Education Society's Institute of Technology, Chembur, Mumbai",3591,Computer
+"Thadomal Shahani Engineering College, Mumbai",3604,IT
+"Vivekanand Education Society's Institute of Technology, Chembur, Mumbai",3612,Computer
+"Cummins College of Engineering for Women, Pune",3725,IT
+"Vivekanand Education Society's Institute of Technology, Chembur, Mumbai",3780,Computer
+Bharatiya Vidya Bhavan's Sardar Patel College of Engineering Mumbai,3850,Mechanical
+"Shri Ramdeobaba College of Engineering and Management, Nagpur",3867,Computer
+"Cummins College of Engineering for Women, Pune",3945,IT
+"Shri Ramdeobaba College of Engineering and Management, Nagpur",3965,Computer
+"Shri Ramdeobaba College of Engineering and Management, Nagpur",4000,Computer
+"Shri Ramdeobaba College of Engineering and Management, Nagpur",4006,IT
+"Shri Ramdeobaba College of Engineering and Management, Nagpur",4009,Computer
+"Shri Ramdeobaba College of Engineering and Management, Nagpur",4079,IT
+"Shri Ramdeobaba College of Engineering and Management, Nagpur",4083,Computer
+"K. J. Somaiya College of Engineering, Mumbai",4100,Computer
+"Shri Ramdeobaba College of Engineering and Management, Nagpur",4115,IT
+"Shri Ramdeobaba College of Engineering and Management, Nagpur",4123,IT
+"Shri Ramdeobaba College of Engineering and Management, Nagpur",4187,IT
+"K. J. Somaiya College of Engineering, Mumbai",4199,Computer
+"K. J. Somaiya College of Engineering, Mumbai",4218,Computer
+"Cummins College of Engineering for Women, Pune",4218,IT
+Bharatiya Vidya Bhavan's Sardar Patel College of Engineering Mumbai,4267,Mechanical
+"K. J. Somaiya College of Engineering, Mumbai",4301,Computer
+"K. J. Somaiya College of Engineering, Mumbai",4307,Computer
+"Government College of Engineering, Aurangabad",4444,Computer
+"Vishwakarma Institute of Technology, Pune",4444,EnTC
+"Cummins College of Engineering for Women, Pune",4497,IT
+"Vishwakarma Institute of Technology, Pune",4512,EnTC
+"Government College of Engineering, Aurangabad",4555,Computer
+Bharatiya Vidya Bhavan's Sardar Patel College of Engineering Mumbai,4557,Mechanical
+"K. J. Somaiya College of Engineering, Mumbai",4716,IT
+"Government College of Engineering, Aurangabad",4768,Computer
+"Cummins College of Engineering for Women, Pune",4782,IT
+"Government College of Engineering, Aurangabad",4800,Computer
+"K. J. Somaiya College of Engineering, Mumbai",4812,IT
+Bharatiya Vidya Bhavan's Sardar Patel College of Engineering Mumbai,4865,Mechanical
+"College of Engineering, Pune",4890,Civil
+"K. J. Somaiya College of Engineering, Mumbai",4928,IT
+"Vishwakarma Institute of Technology, Pune",4953,EnTC
+"K. J. Somaiya College of Engineering, Mumbai",4954,IT
+"Government College of Engineering, Aurangabad",4958,Computer
+"Fr. C. Rodrigues Institute of Technology, Navi Mumbai",4999,Computer
+"Dwarkadas J. Sanghvi College of Engineering, Mumbai",5000,EnTC
+"K. J. Somaiya College of Engineering, Mumbai",5007,IT
+"Walchand College of Engineering, Sangli",5200,Mechanical
+"Fr. C. Rodrigues Institute of Technology, Navi Mumbai",5432,Computer
+"Veermata Jijabai Technological Institute, Mumbai",5463,Civil
+"Vivekanand Education Society's Institute of Technology, Chembur, Mumbai",5544,IT
+"Veermata Jijabai Technological Institute, Mumbai",5623,Civil
+"Walchand College of Engineering, Sangli",5648,Mechanical
+"Fr. C. Rodrigues Institute of Technology, Navi Mumbai",5671,Computer
+"Vivekanand Education Society's Institute of Technology, Chembur, Mumbai",5674,IT
+"Fr. C. Rodrigues Institute of Technology, Navi Mumbai",5699,Computer
+"Fr. C. Rodrigues Institute of Technology, Navi Mumbai",5773,Computer
+"Government College of Engineering, Nagpur",5780,Computer
+"Government College of Engineering, Nagpur",5800,Computer
+"Dwarkadas J. Sanghvi College of Engineering, Mumbai",5888,EnTC
+"Vivekanand Education Society's Institute of Technology, Chembur, Mumbai",5891,IT
+"Government College of Engineering, Nagpur",5899,Computer
+"Government College of Engineering, Nagpur",5905,Computer
+"Government College of Engineering, Nagpur",5927,Computer
+"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",5932,Computer
+"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",5944,Computer
+"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",5955,Computer
+"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",5960,Computer
+"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",5965,Computer
+"Government College of Engineering, Karad",5981,Computer
+"Government College of Engineering, Karad",5999,Computer
+"Dwarkadas J. Sanghvi College of Engineering, Mumbai",6000,EnTC
+"Government College of Engineering, Karad",6004,Computer
+"Government College of Engineering, Karad",6058,Computer
+"Government College of Engineering, Karad",6101,Computer
+"Government College of Engineering, Karad",6101,IT
+"Dwarkadas J. Sanghvi College of Engineering, Mumbai",6120,EnTC
+"Vivekanand Education Society's Institute of Technology, Chembur, Mumbai",6123,IT
+"Walchand College of Engineering, Sangli",6145,Mechanical
+"Government College of Engineering, Karad",6145,IT
+"Dwarkadas J. Sanghvi College of Engineering, Mumbai",6146,EnTC
+"Government College of Engineering, Karad",6198,IT
+"Pimpri Chinchwad College Of Engineering And Research, Ravet",6222,Computer
+"Pimpri Chinchwad College of Engineering, Pune",6222,EnTC
+"Government College of Engineering, Karad",6224,IT
+"Government College of Engineering, Karad",6271,IT
+"Pimpri Chinchwad College Of Engineering And Research, Ravet",6281,Computer
+"Pimpri Chinchwad College Of Engineering And Research, Ravet",6300,Computer
+"Pimpri Chinchwad College Of Engineering And Research, Ravet",6349,Computer
+"Pimpri Chinchwad College Of Engineering And Research, Ravet",6372,Computer
+"Government College of Engineering, Amravati",6377,Computer
+"Walchand College of Engineering, Sangli",6379,Mechanical
+"Government College of Engineering, Amravati",6380,Computer
+"Government College of Engineering, Amravati",6390,Computer
+"Government College of Engineering, Amravati",6394,Computer
+"Pimpri Chinchwad College of Engineering, Pune",6399,EnTC
+"Government College of Engineering, Amravati",6400,Computer
+"Government College of Engineering, Amravati",6408,Computer
+"Government College of Engineering, Amravati",6412,Computer
+"Vivekanand Education Society's Institute of Technology, Chembur, Mumbai",6481,IT
+"Pimpri Chinchwad College of Engineering, Pune",6517,EnTC
+"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering",6541,Computer
+"Pimpri Chinchwad College of Engineering, Pune",6555,EnTC
+"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering",6666,Computer
+"Pimpri Chinchwad College of Engineering, Pune",6680,EnTC
+"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering",6806,Computer
+"Walchand College of Engineering, Sangli",6812,Mechanical
+"Cummins College of Engineering for Women, Pune",6888,EnTC
+"Fr. C. Rodrigues Institute of Technology, Navi Mumbai",6901,IT
+"Veermata Jijabai Technological Institute, Mumbai",6953,Civil
+"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering",6961,Computer
+"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering",6967,Computer
+"Cummins College of Engineering for Women, Pune",6969,EnTC
+"AISSMS College of Engineering, Pune",6999,Computer
+"AISSMS College of Engineering, Pune",7000,Computer
+"Cummins College of Engineering for Women, Pune",7000,EnTC
+"Fr. C. Rodrigues Institute of Technology, Navi Mumbai",7049,IT
+"AISSMS College of Engineering, Pune",7123,Computer
+"Fr. C. Rodrigues Institute of Technology, Navi Mumbai",7134,IT
+"Cummins College of Engineering for Women, Pune",7212,EnTC
+"AISSMS College of Engineering, Pune",7222,Computer
+"Fr. C. Rodrigues Institute of Technology, Navi Mumbai",7258,IT
+"Cummins College of Engineering for Women, Pune",7344,EnTC
+"AISSMS College of Engineering, Pune",7351,Computer
+"Fr. C. Rodrigues Institute of Technology, Navi Mumbai",7433,IT
+"MIT Academy of Engineering, Alandi",7444,Computer
+"MIT Academy of Engineering, Alandi",7462,Computer
+"MIT Academy of Engineering, Alandi",7499,Computer
+"Dwarkadas J. Sanghvi College of Engineering, Mumbai",7500,Mechanical
+"MIT Academy of Engineering, Alandi",7540,Computer
+"Government College of Engineering, Aurangabad",7547,IT
+"MIT Academy of Engineering, Alandi",7623,Computer
+"Government College of Engineering, Aurangabad",7689,IT
+"Government College of Engineering, Aurangabad",7703,IT
+"MIT Academy of Engineering, Alandi",7710,Computer
+"Dwarkadas J. Sanghvi College of Engineering, Mumbai",7760,Mechanical
+"MIT Academy of Engineering, Alandi",7800,Computer
+"Veermata Jijabai Technological Institute, Mumbai",7895,Civil
+"Government College of Engineering, Aurangabad",7915,IT
+"MIT Academy of Engineering, Alandi",7938,Computer
+"All India Shri Shivaji Memorial Society's Institute of Information Technology,Pune",7989,Computer
+"All India Shri Shivaji Memorial Society's Institute of Information Technology,Pune",8000,Computer
+"Thadomal Shahani Engineering College, Mumbai",8123,EnTC
+"Government College of Engineering, Aurangabad",8124,IT
+"Government College of Engineering, Amravati",8183,IT
+"All India Shri Shivaji Memorial Society's Institute of Information Technology,Pune",8201,Computer
+"Government College of Engineering, Amravati",8271,IT
+"All India Shri Shivaji Memorial Society's Institute of Information Technology,Pune",8309,Computer
+"Government College of Engineering, Amravati",8310,IT
+"All India Shri Shivaji Memorial Society's Institute of Information Technology,Pune",8393,Computer
+"Veermata Jijabai Technological Institute, Mumbai",8456,Civil
+"Government College of Engineering, Amravati",8456,IT
+"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",8517,IT
+"Yeshwantrao Chavan College of Engineering, Nagpur",8555,Computer
+"Government College of Engineering, Amravati",8561,IT
+"Dwarkadas J. Sanghvi College of Engineering, Mumbai",8602,Mechanical
+"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",8691,IT
+"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",8713,IT
+"Yeshwantrao Chavan College of Engineering, Nagpur",8800,Computer
+"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",8841,IT
+"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",8997,IT
+"Yeshwantrao Chavan College of Engineering, Nagpur",9000,Computer
+"Dwarkadas J. Sanghvi College of Engineering, Mumbai",9021,Mechanical
+"Pimpri Chinchwad College Of Engineering And Research, Ravet",9034,IT
+"Pimpri Chinchwad College Of Engineering And Research, Ravet",9123,IT
+"Pimpri Chinchwad College Of Engineering And Research, Ravet",9279,IT
+"Pimpri Chinchwad College Of Engineering And Research, Ravet",9338,IT
+"Pimpri Chinchwad College Of Engineering And Research, Ravet",9471,IT
+"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering",9568,IT
+"Sardar Patel Institute of Technology , Andheri, Mumbai",9598,Civil
+"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering",9617,IT
+"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering",9721,IT
+"Yeshwantrao Chavan College of Engineering, Nagpur",9745,Computer
+"Sardar Patel Institute of Technology , Andheri, Mumbai",9789,Civil
+"Yeshwantrao Chavan College of Engineering, Nagpur",9805,Computer
+"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering",9836,IT
+"Dr. D. Y. Patil Unitech Society's Dr. D. Y. Patil Institute of Technology, Pimpri, Pune",9850,Computer
+"Dr. D. Y. Patil Unitech Society's Dr. D. Y. Patil Institute of Technology, Pimpri, Pune",9878,Computer
+"Dwarkadas J. Sanghvi College of Engineering, Mumbai",9950,Mechanical
+"Dr. D. Y. Patil Unitech Society's Dr. D. Y. Patil Institute of Technology, Pimpri, Pune",9999,Computer
+"Thadomal Shahani Engineering College, Mumbai",9999,EnTC
+"Dr. D. Y. Patil Unitech Society's Dr. D. Y. Patil Institute of Technology, Pimpri, Pune",10000,Computer
+"Dr. D. Y. Patil Unitech Society's Dr. D. Y. Patil Institute of Technology, Pimpri, Pune",10001,Computer
+"Dr. D. Y. Patil Unitech Society's Dr. D. Y. Patil Institute of Technology, Pimpri, Pune",10019,Computer
+"PES Modern College of Engineering, Pune",10029,Computer
+"PES Modern College of Engineering, Pune",10033,Computer
+"PES Modern College of Engineering, Pune",10045,Computer
+"Vishwakarma Institute of Technology, Pune",10046,Mechanical
+"PES Modern College of Engineering, Pune",10050,Computer
+"PES Modern College of Engineering, Pune",10052,Computer
+"Marathwada Mitra Mandal's College of Engineering, Karvenagar, Pune",10111,Computer
+"Thadomal Shahani Engineering College, Mumbai",10111,EnTC
+"Sardar Patel Institute of Technology , Andheri, Mumbai",10236,Civil
+"Marathwada Mitra Mandal's College of Engineering, Karvenagar, Pune",10263,Computer
+"Marathwada Mitra Mandal's College of Engineering, Karvenagar, Pune",10514,Computer
+"Thadomal Shahani Engineering College, Mumbai",10555,EnTC
+"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering",10589,IT
+"Marathwada Mitra Mandal's College of Engineering, Karvenagar, Pune",10666,Computer
+"Thadomal Shahani Engineering College, Mumbai",10670,EnTC
+"Dr. D. Y. Patil Unitech Society's Dr. D. Y. Patil Institute of Technology, Pimpri, Pune",10699,IT
+"Marathwada Mitra Mandal's College of Engineering, Karvenagar, Pune",10759,Computer
+"Dr. D. Y. Patil Unitech Society's Dr. D. Y. Patil Institute of Technology, Pimpri, Pune",10856,IT
+"Government College of Engineering, Karad",10889,EnTC
+"Marathwada Mitra Mandal's College of Engineering, Karvenagar, Pune",10900,Computer
+"Marathwada Mitra Mandal's College of Engineering, Karvenagar, Pune",10986,Computer
+"K. K. Wagh Institute of Engineering Education and Research, Nashik",10999,Computer
+"Dr. D. Y. Patil Unitech Society's Dr. D. Y. Patil Institute of Technology, Pimpri, Pune",11047,IT
+"K. K. Wagh Institute of Engineering Education and Research, Nashik",11111,Computer
+"Dr. D. Y. Patil Unitech Society's Dr. D. Y. Patil Institute of Technology, Pimpri, Pune",11146,IT
+"K. K. Wagh Institute of Engineering Education and Research, Nashik",11184,Computer
+"K. K. Wagh Institute of Engineering Education and Research, Nashik",11200,Computer
+"Government College of Engineering, Karad",11228,EnTC
+"K. K. Wagh Institute of Engineering Education and Research, Nashik",11279,Computer
+"Dr. D. Y. Patil Unitech Society's Dr. D. Y. Patil Institute of Technology, Pimpri, Pune",11297,IT
+"Rajarambapu Institute of Technology, Sangli",11319,Computer
+"Government College of Engineering, Karad",11405,EnTC
+"Rajarambapu Institute of Technology, Sangli",11555,Computer
+"Vishwakarma Institute of Technology, Pune",11645,Mechanical
+"Pimpri Chinchwad College Of Engineering And Research, Ravet",11681,EnTC
+"Government College of Engineering, Karad",11700,EnTC
+"Government College of Engineering, Karad",11739,EnTC
+"Pimpri Chinchwad College Of Engineering And Research, Ravet",11755,EnTC
+"Pimpri Chinchwad College Of Engineering And Research, Ravet",11784,EnTC
+"Rajarambapu Institute of Technology, Sangli",11800,Computer
+"Pimpri Chinchwad College Of Engineering And Research, Ravet",11800,EnTC
+"Pimpri Chinchwad College Of Engineering And Research, Ravet",11840,EnTC
+"Shri Ramdeobaba College of Engineering and Management, Nagpur",11860,EnTC
+"Shri Ramdeobaba College of Engineering and Management, Nagpur",11900,EnTC
+"Rajarambapu Institute of Technology, Sangli",11905,Computer
+"Rajarambapu Institute of Technology, Sangli",11917,Computer
+"K. E. Society's Rajarambapu Institute of Technology, Kolhapur",11917,Computer
+"K. E. Society's Rajarambapu Institute of Technology, Kolhapur",11922,Computer
+"K. E. Society's Rajarambapu Institute of Technology, Kolhapur",11934,Computer
+"K. E. Society's Rajarambapu Institute of Technology, Kolhapur",11940,Computer
+"K. E. Society's Rajarambapu Institute of Technology, Kolhapur",11945,Computer
+"Sinhgad College of Engineering, Pune",11952,Computer
+"Sinhgad College of Engineering, Pune",11959,Computer
+"Sinhgad College of Engineering, Pune",11978,Computer
+"Sardar Patel Institute of Technology , Andheri, Mumbai",11986,Civil
+"Sinhgad College of Engineering, Pune",12000,Computer
+"Shri Ramdeobaba College of Engineering and Management, Nagpur",12000,EnTC
+"Shri Ramdeobaba College of Engineering and Management, Nagpur",12020,EnTC
+"Shri Ramdeobaba College of Engineering and Management, Nagpur",12025,EnTC
+"K. J. Somaiya College of Engineering, Mumbai",12101,EnTC
+"Sinhgad College of Engineering, Pune",12134,Computer
+"Bharati Vidyapeeth's College of Engineering,Lavale, Pune",12141,Computer
+"PES Modern College of Engineering, Pune",12210,IT
+"Sardar Patel Institute of Technology , Andheri, Mumbai",12236,Civil
+"Bharati Vidyapeeth's College of Engineering,Lavale, Pune",12299,Computer
+"Vishwakarma Institute of Technology, Pune",12375,Mechanical
+"PES Modern College of Engineering, Pune",12431,IT
+"K. J. Somaiya College of Engineering, Mumbai",12444,EnTC
+"Walchand College of Engineering, Sangli",12489,Civil
+"PES Modern College of Engineering, Pune",12579,IT
+"K. J. Somaiya College of Engineering, Mumbai",12605,EnTC
+"PES Modern College of Engineering, Pune",12624,IT
+"Bharati Vidyapeeth's College of Engineering,Lavale, Pune",12646,Computer
+"PES Modern College of Engineering, Pune",12789,IT
+"K. J. Somaiya College of Engineering, Mumbai",12870,EnTC
+"Bharati Vidyapeeth's College of Engineering,Lavale, Pune",12871,Computer
+"K. J. Somaiya College of Engineering, Mumbai",12877,EnTC
+"Vivekanand Education Society's Institute of Technology, Chembur, Mumbai",12880,EnTC
+"Vivekanand Education Society's Institute of Technology, Chembur, Mumbai",12900,EnTC
+"Vivekanand Education Society's Institute of Technology, Chembur, Mumbai",12911,EnTC
+"Vivekanand Education Society's Institute of Technology, Chembur, Mumbai",12920,EnTC
+"Vivekanand Education Society's Institute of Technology, Chembur, Mumbai",12928,EnTC
+"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",12999,EnTC
+"Bharati Vidyapeeth's College of Engineering,Lavale, Pune",13000,Computer
+"Marathwada Mitra Mandal's College of Engineering, Karvenagar, Pune",13019,IT
+"Vishwakarma Institute of Technology, Pune",13045,Mechanical
+"Modern Education Society's College of Engineering, Pune",13058,Computer
+"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",13100,EnTC
+"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",13168,EnTC
+"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",13184,EnTC
+"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",13198,EnTC
+"Modern Education Society's College of Engineering, Pune",13199,Computer
+"Marathwada Mitra Mandal's College of Engineering, Karvenagar, Pune",13220,IT
+"Marathwada Mitra Mandal's College of Engineering, Karvenagar, Pune",13389,IT
+"Government College of Engineering, Aurangabad",13400,EnTC
+"Marathwada Mitra Mandal's College of Engineering, Karvenagar, Pune",13479,IT
+"Marathwada Mitra Mandal's College of Engineering, Karvenagar, Pune",13689,IT
+"Government College of Engineering, Aurangabad",13800,EnTC
+"Vishwakarma Institute of Technology, Pune",13901,Mechanical
+"Government College of Engineering, Aurangabad",14000,EnTC
+"K. K. Wagh Institute of Engineering Education and Research, Nashik",14036,IT
+"Government College of Engineering, Aurangabad",14080,EnTC
+"Government College of Engineering, Aurangabad",14130,EnTC
+"Yeshwantrao Chavan College of Engineering, Nagpur",14267,IT
+"Yeshwantrao Chavan College of Engineering, Nagpur",14326,IT
+"Government College of Engineering, Amravati",14444,EnTC
+"Yeshwantrao Chavan College of Engineering, Nagpur",14479,IT
+"Yeshwantrao Chavan College of Engineering, Nagpur",14520,IT
+"Modern Education Society's College of Engineering, Pune",14562,Computer
+"Government College of Engineering, Amravati",14565,EnTC
+"Walchand College of Engineering, Sangli",14569,Civil
+"Pimpri Chinchwad College of Engineering, Pune",14605,Mechanical
+"Yeshwantrao Chavan College of Engineering, Nagpur",14629,IT
+"Sinhgad College of Engineering, Pune",14703,IT
+"Sinhgad College of Engineering, Pune",14791,IT
+"Sinhgad College of Engineering, Pune",14850,IT
+"Sinhgad College of Engineering, Pune",14864,IT
+"Sinhgad College of Engineering, Pune",14907,IT
+"Modern Education Society's College of Engineering, Pune",14950,IT
+"Modern Education Society's College of Engineering, Pune",14997,IT
+"Modern Education Society's College of Engineering, Pune",15001,IT
+"Modern Education Society's College of Engineering, Pune",15034,IT
+"Modern Education Society's College of Engineering, Pune",15097,IT
+"Kavikulguru Institute of Technology and Science, Nagpur",15110,IT
+"Kavikulguru Institute of Technology and Science, Nagpur",15203,IT
+"Modern Education Society's College of Engineering, Pune",15300,Computer
+"Government College of Engineering, Amravati",15323,EnTC
+"Kavikulguru Institute of Technology and Science, Nagpur",15346,IT
+"Government College of Engineering, Amravati",15400,EnTC
+"Kavikulguru Institute of Technology and Science, Nagpur",15479,IT
+"Government College of Engineering, Amravati",15492,EnTC
+"All India Shri Shivaji Memorial Society's Institute of Information Technology,Pune",15500,EnTC
+"Kavikulguru Institute of Technology and Science, Nagpur",15598,IT
+"GH Raisoni College of Engineering, Nagpur",15602,IT
+"Pimpri Chinchwad College of Engineering, Pune",15698,Mechanical
+"GH Raisoni College of Engineering, Nagpur",15729,IT
+"All India Shri Shivaji Memorial Society's Institute of Information Technology,Pune",15787,EnTC
+"All India Shri Shivaji Memorial Society's Institute of Information Technology,Pune",15800,EnTC
+"GH Raisoni College of Engineering, Nagpur",15889,IT
+"GH Raisoni College of Engineering, Nagpur",15997,IT
+"All India Shri Shivaji Memorial Society's Institute of Information Technology,Pune",16000,EnTC
+"All India Shri Shivaji Memorial Society's Institute of Information Technology,Pune",16045,EnTC
+"GH Raisoni College of Engineering, Nagpur",16047,IT
+"Fr. C. Rodrigues Institute of Technology, Navi Mumbai",16088,EnTC
+"MGM's College of Engineering and Technology, Navi Mumbai",16097,IT
+"Fr. C. Rodrigues Institute of Technology, Navi Mumbai",16110,EnTC
+"MGM's College of Engineering and Technology, Navi Mumbai",16117,IT
+"Fr. C. Rodrigues Institute of Technology, Navi Mumbai",16147,EnTC
+"Fr. C. Rodrigues Institute of Technology, Navi Mumbai",16189,EnTC
+"Fr. C. Rodrigues Institute of Technology, Navi Mumbai",16199,EnTC
+"Modern Education Society's College of Engineering, Pune",16212,Computer
+"Government College of Engineering, Nagpur",16214,EnTC
+"MGM's College of Engineering and Technology, Navi Mumbai",16279,IT
+"MGM's College of Engineering and Technology, Navi Mumbai",16334,IT
+"Government College of Engineering, Nagpur",16384,EnTC
+"Pimpri Chinchwad College of Engineering, Pune",16420,Mechanical
+"MGM's College of Engineering and Technology, Navi Mumbai",16421,IT
+"Kavikulguru Institute of Technology and Science, Nagpur",16504,Computer
+"Government College of Engineering, Nagpur",16540,EnTC
+"Government College of Engineering, Nagpur",16600,EnTC
+"Government College of Engineering, Nagpur",16651,EnTC
+"Kavikulguru Institute of Technology and Science, Nagpur",16666,Computer
+"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering",16814,EnTC
+"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering",16888,EnTC
+"Kavikulguru Institute of Technology and Science, Nagpur",16935,Computer
+"Kavikulguru Institute of Technology and Science, Nagpur",17001,Computer
+"Sandip Foundation's Sandip Institute of Technology and Research Centre, Nashik",17116,IT
+"Sandip Foundation's Sandip Institute of Technology and Research Centre, Nashik",17289,IT
+"Sandip Foundation's Sandip Institute of Technology and Research Centre, Nashik",17306,IT
+"Sandip Foundation's Sandip Institute of Technology and Research Centre, Nashik",17403,IT
+"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering",17500,EnTC
+"Walchand College of Engineering, Sangli",17532,Civil
+"Sandip Foundation's Sandip Institute of Technology and Research Centre, Nashik",17560,IT
+"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering",17904,EnTC
+"Pimpri Chinchwad College of Engineering, Pune",17985,Mechanical
+"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering",17996,EnTC
+"MIT Academy of Engineering, Alandi",17999,EnTC
+"MIT Academy of Engineering, Alandi",18009,EnTC
+"MIT Academy of Engineering, Alandi",18100,EnTC
+"MIT Academy of Engineering, Alandi",18114,EnTC
+"MIT Academy of Engineering, Alandi",18121,EnTC
+"Kavikulguru Institute of Technology and Science, Nagpur",18419,Computer
+"GH Raisoni College of Engineering, Nagpur",18521,Computer
+"Walchand College of Engineering, Sangli",18536,Civil
+"AISSMS College of Engineering, Pune",18541,EnTC
+"AISSMS College of Engineering, Pune",18687,EnTC
+"Pimpri Chinchwad College of Engineering, Pune",18721,Mechanical
+"AISSMS College of Engineering, Pune",19001,EnTC
+"AISSMS College of Engineering, Pune",19177,EnTC
+"AISSMS College of Engineering, Pune",19198,EnTC
+"Government College of Engineering, Karad",19670,Mechanical
+"Government College of Engineering, Karad",19750,Mechanical
+"Government College of Engineering, Karad",19825,Mechanical
+"Government College of Engineering, Karad",19964,Mechanical
+"Rajarambapu Institute of Technology, Sangli",19999,EnTC
+"GH Raisoni College of Engineering, Nagpur",20011,Computer
+"Government College of Engineering, Karad",20034,Mechanical
+"Walchand College of Engineering, Sangli",20194,Civil
+"Cummins College of Engineering for Women, Pune",20247,Mechanical
+"Cummins College of Engineering for Women, Pune",20487,Mechanical
+"Rajarambapu Institute of Technology, Sangli",20789,EnTC
+"Rajarambapu Institute of Technology, Sangli",21465,EnTC
+"Cummins College of Engineering for Women, Pune",21884,Mechanical
+"Cummins College of Engineering for Women, Pune",22103,Mechanical
+"GH Raisoni College of Engineering, Nagpur",22222,Computer
+"Pimpri Chinchwad College of Engineering, Pune",22297,Civil
+"Rajarambapu Institute of Technology, Sangli",22547,EnTC
+"Rajarambapu Institute of Technology, Sangli",22713,EnTC
+"Dr. D. Y. Patil Unitech Society's Dr. D. Y. Patil Institute of Technology, Pimpri, Pune",22841,EnTC
+"Dr. D. Y. Patil Unitech Society's Dr. D. Y. Patil Institute of Technology, Pimpri, Pune",23003,EnTC
+"Dr. D. Y. Patil Unitech Society's Dr. D. Y. Patil Institute of Technology, Pimpri, Pune",23159,EnTC
+"Cummins College of Engineering for Women, Pune",23564,Mechanical
+"Pimpri Chinchwad College of Engineering, Pune",23569,Civil
+"Dr. D. Y. Patil Unitech Society's Dr. D. Y. Patil Institute of Technology, Pimpri, Pune",24051,EnTC
+"Dr. D. Y. Patil Unitech Society's Dr. D. Y. Patil Institute of Technology, Pimpri, Pune",24101,EnTC
+"Government College of Engineering, Aurangabad",24258,Mechanical
+"PES Modern College of Engineering, Pune",24537,EnTC
+"Pimpri Chinchwad College of Engineering, Pune",24875,Civil
+"Government College of Engineering, Aurangabad",25067,Mechanical
+"Marathwada Mitra Mandal's College of Engineering, Karvenagar, Pune",25089,EnTC
+"PES Modern College of Engineering, Pune",25138,EnTC
+"PES Modern College of Engineering, Pune",25500,EnTC
+"GH Raisoni College of Engineering, Nagpur",25789,Computer
+"Government College of Engineering, Aurangabad",25879,Mechanical
+"GH Raisoni College of Engineering, Nagpur",26021,Computer
+"Pimpri Chinchwad College of Engineering, Pune",26112,Civil
+"PES Modern College of Engineering, Pune",26300,EnTC
+"PES Modern College of Engineering, Pune",26329,EnTC
+"Marathwada Mitra Mandal's College of Engineering, Karvenagar, Pune",26400,EnTC
+"Government College of Engineering, Aurangabad",26594,Mechanical
+"Marathwada Mitra Mandal's College of Engineering, Karvenagar, Pune",26777,EnTC
+"MGM's College of Engineering and Technology, Navi Mumbai",27249,Computer
+"Marathwada Mitra Mandal's College of Engineering, Karvenagar, Pune",27451,EnTC
+"Marathwada Mitra Mandal's College of Engineering, Karvenagar, Pune",27505,EnTC
+"Yeshwantrao Chavan College of Engineering, Nagpur",27606,EnTC
+"Pimpri Chinchwad College of Engineering, Pune",27896,Civil
+"Yeshwantrao Chavan College of Engineering, Nagpur",27937,EnTC
+"Government College of Engineering, Karad",28152,Civil
+"Yeshwantrao Chavan College of Engineering, Nagpur",28212,EnTC
+"Yeshwantrao Chavan College of Engineering, Nagpur",28300,EnTC
+"Yeshwantrao Chavan College of Engineering, Nagpur",28324,EnTC
+"Government College of Engineering, Aurangabad",28456,Mechanical
+"MGM's College of Engineering and Technology, Navi Mumbai",28812,Computer
+"Modern Education Society's College of Engineering, Pune",29000,EnTC
+"MGM's College of Engineering and Technology, Navi Mumbai",29123,Computer
+"Government College of Engineering, Karad",29635,Civil
+"Modern Education Society's College of Engineering, Pune",30125,EnTC
+"Government College of Engineering, Karad",30132,Civil
+"Modern Education Society's College of Engineering, Pune",30458,EnTC
+"Modern Education Society's College of Engineering, Pune",31000,EnTC
+"Modern Education Society's College of Engineering, Pune",31477,EnTC
+"Government College of Engineering, Karad",31547,Civil
+"K. K. Wagh Institute of Engineering Education and Research, Nashik",31999,EnTC
+"Government College of Engineering, Karad",32119,Civil
+"Government College of Engineering, Aurangabad",32257,Civil
+"K. K. Wagh Institute of Engineering Education and Research, Nashik",32319,EnTC
+"K. K. Wagh Institute of Engineering Education and Research, Nashik",33333,EnTC
+"Government College of Engineering, Aurangabad",33512,Civil
+"K. K. Wagh Institute of Engineering Education and Research, Nashik",34200,EnTC
+"K. K. Wagh Institute of Engineering Education and Research, Nashik",34263,EnTC
+"Government College of Engineering, Amravati",34421,Mechanical
+"Bharati Vidyapeeth's College of Engineering,Lavale, Pune",34481,EnTC
+"Bharati Vidyapeeth's College of Engineering,Lavale, Pune",34900,EnTC
+"MGM's College of Engineering and Technology, Navi Mumbai",35001,Computer
+"Shri Ramdeobaba College of Engineering and Management, Nagpur",35031,Mechanical
+"Bharati Vidyapeeth's College of Engineering,Lavale, Pune",35139,EnTC
+"Bharati Vidyapeeth's College of Engineering,Lavale, Pune",35222,EnTC
+"Shri Ramdeobaba College of Engineering and Management, Nagpur",35264,Mechanical
+"Bharati Vidyapeeth's College of Engineering,Lavale, Pune",35443,EnTC
+"Sinhgad College of Engineering, Pune",35450,EnTC
+"Shri Ramdeobaba College of Engineering and Management, Nagpur",35640,Mechanical
+"Sinhgad College of Engineering, Pune",35843,EnTC
+"Sinhgad College of Engineering, Pune",36000,EnTC
+"Sinhgad College of Engineering, Pune",36007,EnTC
+"Shri Ramdeobaba College of Engineering and Management, Nagpur",36014,Mechanical
+"Sinhgad College of Engineering, Pune",36073,EnTC
+"GH Raisoni College of Engineering, Nagpur",36452,EnTC
+"Government College of Engineering, Aurangabad",36542,Civil
+"Shri Ramdeobaba College of Engineering and Management, Nagpur",36890,Mechanical
+"Government College of Engineering, Nagpur",37125,Mechanical
+"MGM's College of Engineering and Technology, Navi Mumbai",37145,Computer
+"Government College of Engineering, Aurangabad",37497,Civil
+"GH Raisoni College of Engineering, Nagpur",37519,EnTC
+"GH Raisoni College of Engineering, Nagpur",37777,EnTC
+"Sandip Foundation's Sandip Institute of Technology and Research Centre, Nashik",38196,Computer
+"GH Raisoni College of Engineering, Nagpur",38357,EnTC
+"Government College of Engineering, Nagpur",38564,Mechanical
+"GH Raisoni College of Engineering, Nagpur",38682,EnTC
+"Government College of Engineering, Aurangabad",39125,Civil
+"Government College of Engineering, Nagpur",39865,Mechanical
+"Government College of Engineering, Nagpur",40235,Mechanical
+"Government College of Engineering, Amravati",40678,Civil
+"Government College of Engineering, Nagpur",41005,Mechanical
+"Fr. C. Rodrigues Institute of Technology, Navi Mumbai",41238,Mechanical
+"Government College of Engineering, Amravati",41259,Civil
+"Government College of Engineering, Amravati",42697,Civil
+"Fr. C. Rodrigues Institute of Technology, Navi Mumbai",42987,Mechanical
+"Government College of Engineering, Amravati",44978,Civil
+"Fr. C. Rodrigues Institute of Technology, Navi Mumbai",45321,Mechanical
+"Government College of Engineering, Amravati",45962,Civil
+"Shri Ramdeobaba College of Engineering and Management, Nagpur",46369,Civil
+"Fr. C. Rodrigues Institute of Technology, Navi Mumbai",46467,Mechanical
+"Fr. C. Rodrigues Institute of Technology, Navi Mumbai",47123,Mechanical
+"Bharati Vidyapeeth's College of Engineering,Lavale, Pune",47961,Mechanical
+"Shri Ramdeobaba College of Engineering and Management, Nagpur",48125,Civil
+"Bharati Vidyapeeth's College of Engineering,Lavale, Pune",48256,Mechanical
+"Bharati Vidyapeeth's College of Engineering,Lavale, Pune",48972,Mechanical
+"Bharati Vidyapeeth's College of Engineering,Lavale, Pune",49602,Mechanical
+"Shri Ramdeobaba College of Engineering and Management, Nagpur",50198,Civil
+"Pimpri Chinchwad College Of Engineering And Research, Ravet",50781,Mechanical
+"Pimpri Chinchwad College Of Engineering And Research, Ravet",51234,Mechanical
+"Shri Ramdeobaba College of Engineering and Management, Nagpur",51498,Civil
+"Pimpri Chinchwad College Of Engineering And Research, Ravet",51556,Mechanical
+"Pimpri Chinchwad College Of Engineering And Research, Ravet",51792,Mechanical
+"Pimpri Chinchwad College Of Engineering And Research, Ravet",52346,Mechanical
+"MIT Academy of Engineering, Alandi",52868,Mechanical
+"MIT Academy of Engineering, Alandi",52942,Mechanical
+"MIT Academy of Engineering, Alandi",53102,Mechanical
+"MIT Academy of Engineering, Alandi",53264,Mechanical
+"Shri Ramdeobaba College of Engineering and Management, Nagpur",53698,Civil
+"MIT Academy of Engineering, Alandi",53758,Mechanical
+"AISSMS College of Engineering, Pune",53774,Mechanical
+"AISSMS College of Engineering, Pune",53985,Mechanical
+"Government College of Engineering, Nagpur",54165,Civil
+"AISSMS College of Engineering, Pune",54224,Mechanical
+"Government College of Engineering, Nagpur",54239,Civil
+"AISSMS College of Engineering, Pune",54489,Mechanical
+"Government College of Engineering, Nagpur",54896,Civil
+"Government College of Engineering, Nagpur",54962,Civil
+"Government College of Engineering, Nagpur",55107,Civil
+"AISSMS College of Engineering, Pune",55124,Mechanical
+"MIT Academy of Engineering, Alandi",55203,Civil
+"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",55654,Mechanical
+"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",56741,Mechanical
+"MIT Academy of Engineering, Alandi",56987,Civil
+"MIT Academy of Engineering, Alandi",57896,Civil
+"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",57982,Mechanical
+"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",58231,Mechanical
+"MIT Academy of Engineering, Alandi",59632,Civil
+"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",59712,Mechanical
+"MIT Academy of Engineering, Alandi",60147,Civil
+"K. K. Wagh Institute of Engineering Education and Research, Nashik",60425,Mechanical
+"K. K. Wagh Institute of Engineering Education and Research, Nashik",61345,Mechanical
+"Rajarambapu Institute of Technology, Sangli",61511,Civil
+"K. K. Wagh Institute of Engineering Education and Research, Nashik",62021,Mechanical
+"Rajarambapu Institute of Technology, Sangli",62144,Civil
+"Rajarambapu Institute of Technology, Sangli",62498,Civil
+"Rajarambapu Institute of Technology, Sangli",63491,Civil
+"K. K. Wagh Institute of Engineering Education and Research, Nashik",63897,Mechanical
+"K. K. Wagh Institute of Engineering Education and Research, Nashik",64456,Mechanical
+"Rajarambapu Institute of Technology, Sangli",64895,Civil
+"K. E. Society's Rajarambapu Institute of Technology, Kolhapur",65511,Civil
+"MGM's College of Engineering and Technology, Navi Mumbai",65871,EnTC
+"Yeshwantrao Chavan College of Engineering, Nagpur",65945,Mechanical
+"K. E. Society's Rajarambapu Institute of Technology, Kolhapur",66149,Civil
+"Yeshwantrao Chavan College of Engineering, Nagpur",66451,Mechanical
+"K. E. Society's Rajarambapu Institute of Technology, Kolhapur",67159,Civil
+"Yeshwantrao Chavan College of Engineering, Nagpur",67814,Mechanical
+"Yeshwantrao Chavan College of Engineering, Nagpur",68023,Mechanical
+"K. E. Society's Rajarambapu Institute of Technology, Kolhapur",68521,Civil
+"Yeshwantrao Chavan College of Engineering, Nagpur",68941,Mechanical
+"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering",69156,Mechanical
+"K. E. Society's Rajarambapu Institute of Technology, Kolhapur",69694,Civil
+"AISSMS College of Engineering, Pune",70190,Civil
+"AISSMS College of Engineering, Pune",70489,Civil
+"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering",70546,Mechanical
+"AISSMS College of Engineering, Pune",71264,Civil
+"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering",71402,Mechanical
+"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering",71964,Mechanical
+"AISSMS College of Engineering, Pune",72282,Civil
+"AISSMS College of Engineering, Pune",72649,Civil
+"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering",72855,Mechanical
+"Indira College of Engineering & Management, Pune",72981,Civil
+"K. E. Society's Rajarambapu Institute of Technology, Kolhapur",73530,Mechanical
+"K. E. Society's Rajarambapu Institute of Technology, Kolhapur",74123,Mechanical
+"Indira College of Engineering & Management, Pune",74658,Civil
+"Indira College of Engineering & Management, Pune",74953,Civil
+"K. E. Society's Rajarambapu Institute of Technology, Kolhapur",75912,Mechanical
+"Indira College of Engineering & Management, Pune",76512,Civil
+"K. E. Society's Rajarambapu Institute of Technology, Kolhapur",76627,Mechanical
+"Indira College of Engineering & Management, Pune",77208,Civil
+"K. E. Society's Rajarambapu Institute of Technology, Kolhapur",77345,Mechanical
+"Modern Education Society's College of Engineering, Pune",77857,Mechanical
+"Yeshwantrao Chavan College of Engineering, Nagpur",77962,Civil
+"Modern Education Society's College of Engineering, Pune",78102,Mechanical
+"Yeshwantrao Chavan College of Engineering, Nagpur",78563,Civil
+"Yeshwantrao Chavan College of Engineering, Nagpur",78912,Civil
+"Yeshwantrao Chavan College of Engineering, Nagpur",79123,Civil
+"Modern Education Society's College of Engineering, Pune",79159,Mechanical
+"Yeshwantrao Chavan College of Engineering, Nagpur",79568,Civil
+"Modern Education Society's College of Engineering, Pune",80312,Mechanical
+"K. K. Wagh Institute of Engineering Education and Research, Nashik",80445,Civil
+"Modern Education Society's College of Engineering, Pune",80963,Mechanical
+"K. K. Wagh Institute of Engineering Education and Research, Nashik",81189,Civil
+"K. K. Wagh Institute of Engineering Education and Research, Nashik",81956,Civil
+"Dr. D. Y. Patil Unitech Society's Dr. D. Y. Patil Institute of Technology, Pimpri, Pune",82553,Mechanical
+"K. K. Wagh Institute of Engineering Education and Research, Nashik",82659,Civil
+"Dr. D. Y. Patil Unitech Society's Dr. D. Y. Patil Institute of Technology, Pimpri, Pune",82946,Mechanical
+"Dr. D. Y. Patil Unitech Society's Dr. D. Y. Patil Institute of Technology, Pimpri, Pune",83146,Mechanical
+"K. K. Wagh Institute of Engineering Education and Research, Nashik",83596,Civil
+"Dr. D. Y. Patil Unitech Society's Dr. D. Y. Patil Institute of Technology, Pimpri, Pune",83684,Mechanical
+"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",83743,Civil
+"Dr. D. Y. Patil Unitech Society's Dr. D. Y. Patil Institute of Technology, Pimpri, Pune",84023,Mechanical
+"GH Raisoni College of Engineering, Nagpur",84680,Mechanical
+"GH Raisoni College of Engineering, Nagpur",85124,Mechanical
+"GH Raisoni College of Engineering, Nagpur",85753,Mechanical
+"GH Raisoni College of Engineering, Nagpur",85971,Mechanical
+"GH Raisoni College of Engineering, Nagpur",86017,Mechanical
+"Sinhgad College of Engineering, Pune",86117,Mechanical
+"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",86259,Civil
+"Sinhgad College of Engineering, Pune",86274,Mechanical
+"Sinhgad College of Engineering, Pune",87103,Mechanical
+"Sinhgad College of Engineering, Pune",87640,Mechanical
+"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",87956,Civil
+"Sinhgad College of Engineering, Pune",88470,Mechanical
+"PES Modern College of Engineering, Pune",88938,Mechanical
+"PES Modern College of Engineering, Pune",89410,Mechanical
+"PES Modern College of Engineering, Pune",90146,Mechanical
+"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",90156,Civil
+"PES Modern College of Engineering, Pune",91234,Mechanical
+"PES Modern College of Engineering, Pune",91972,Mechanical
+"Marathwada Mitra Mandal's College of Engineering, Karvenagar, Pune",92335,Mechanical
+"Marathwada Mitra Mandal's College of Engineering, Karvenagar, Pune",93410,Mechanical
+"Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune",94526,Civil
+"Marathwada Mitra Mandal's College of Engineering, Karvenagar, Pune",94678,Mechanical
+"Marathwada Mitra Mandal's College of Engineering, Karvenagar, Pune",95810,Mechanical
+"Marathwada Mitra Mandal's College of Engineering, Karvenagar, Pune",96016,Mechanical
+"Pimpri Chinchwad College Of Engineering And Research, Ravet",96665,Civil
+"Pimpri Chinchwad College Of Engineering And Research, Ravet",96789,Civil
+"Pimpri Chinchwad College Of Engineering And Research, Ravet",96829,Civil
+"Pimpri Chinchwad College Of Engineering And Research, Ravet",97012,Civil
+"Pimpri Chinchwad College Of Engineering And Research, Ravet",97112,Civil
+"GH Raisoni College of Engineering, Nagpur",97219,Civil
+"Sandip Foundation's Sandip Institute of Technology and Research Centre, Nashik",97587,Mechanical
+"GH Raisoni College of Engineering, Nagpur",98156,Civil
+"Sandip Foundation's Sandip Institute of Technology and Research Centre, Nashik",98234,Mechanical
+"Sandip Foundation's Sandip Institute of Technology and Research Centre, Nashik",99327,Mechanical
+"GH Raisoni College of Engineering, Nagpur",99563,Civil
+"Sandip Foundation's Sandip Institute of Technology and Research Centre, Nashik",100456,Mechanical
+"Sandip Foundation's Sandip Institute of Technology and Research Centre, Nashik",101218,Mechanical
+"GH Raisoni College of Engineering, Nagpur",101235,Civil
+"GH Raisoni College of Engineering, Nagpur",102489,Civil
+"Kavikulguru Institute of Technology and Science, Nagpur",102852,Mechanical
+"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering",103130,Civil
+"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering",103205,Civil
+"Kavikulguru Institute of Technology and Science, Nagpur",103467,Mechanical
+"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering",103756,Civil
+"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering",104236,Civil
+"Kavikulguru Institute of Technology and Science, Nagpur",104429,Mechanical
+"Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering",104489,Civil
+"Bharati Vidyapeeth's College of Engineering,Lavale, Pune",104592,Civil
+"Kavikulguru Institute of Technology and Science, Nagpur",105731,Mechanical
+"Bharati Vidyapeeth's College of Engineering,Lavale, Pune",105963,Civil
+"Bharati Vidyapeeth's College of Engineering,Lavale, Pune",106364,Civil
+"Kavikulguru Institute of Technology and Science, Nagpur",106953,Mechanical
+"Bharati Vidyapeeth's College of Engineering,Lavale, Pune",106963,Civil
+"MGM's College of Engineering and Technology, Navi Mumbai",107592,Mechanical
+"Bharati Vidyapeeth's College of Engineering,Lavale, Pune",107624,Civil
+"MGM's College of Engineering and Technology, Navi Mumbai",108420,Mechanical
+"Government College of Engineering, Chandrapur",109406,Civil
+"MGM's College of Engineering and Technology, Navi Mumbai",109413,Mechanical
+"MGM's College of Engineering and Technology, Navi Mumbai",109930,Mechanical
+"MGM's College of Engineering and Technology, Navi Mumbai",110296,Mechanical
+"Government College of Engineering, Chandrapur",110465,Civil
+"Government College of Engineering, Chandrapur",111403,Civil
+"All India Shri Shivaji Memorial Society's Institute of Information Technology,Pune",111941,Mechanical
+"All India Shri Shivaji Memorial Society's Institute of Information Technology,Pune",112467,Mechanical
+"Government College of Engineering, Chandrapur",113526,Civil
+"Government College of Engineering, Chandrapur",113694,Civil
+"All India Shri Shivaji Memorial Society's Institute of Information Technology,Pune",113741,Mechanical
+"All India Shri Shivaji Memorial Society's Institute of Information Technology,Pune",114671,Mechanical
+"All India Shri Shivaji Memorial Society's Institute of Information Technology,Pune",114920,Mechanical
+"MGM's College of Engineering and Technology, Navi Mumbai",114980,Civil
+"MGM's College of Engineering and Technology, Navi Mumbai",114995,Civil
+"MGM's College of Engineering and Technology, Navi Mumbai",115489,Civil
+"MGM's College of Engineering and Technology, Navi Mumbai",115963,Civil
+"MGM's College of Engineering and Technology, Navi Mumbai",116203,Civil
+"Sandip Foundation's Sandip Institute of Technology and Research Centre, Nashik",116652,Civil
+"Sandip Foundation's Sandip Institute of Technology and Research Centre, Nashik",117536,Civil
+"Sandip Foundation's Sandip Institute of Technology and Research Centre, Nashik",118952,Civil
+"Sandip Foundation's Sandip Institute of Technology and Research Centre, Nashik",119578,Civil
+"Sandip Foundation's Sandip Institute of Technology and Research Centre, Nashik",120201,Civil
+"Sinhgad College of Engineering, Pune",120640,Civil
+"Sinhgad College of Engineering, Pune",120659,Civil
+"Sinhgad College of Engineering, Pune",120709,Civil
+"Sinhgad College of Engineering, Pune",120963,Civil
+"Sinhgad College of Engineering, Pune",121563,Civil
+"Dr. D. Y. Patil Unitech Society's Dr. D. Y. Patil Institute of Technology, Pimpri, Pune",121956,Civil
+"Dr. D. Y. Patil Unitech Society's Dr. D. Y. Patil Institute of Technology, Pimpri, Pune",123784,Civil
+"Dr. D. Y. Patil Unitech Society's Dr. D. Y. Patil Institute of Technology, Pimpri, Pune",125639,Civil
+"Dr. D. Y. Patil Unitech Society's Dr. D. Y. Patil Institute of Technology, Pimpri, Pune",127716,Civil
+"Dr. D. Y. Patil Unitech Society's Dr. D. Y. Patil Institute of Technology, Pimpri, Pune",129654,Civil
+"Kavikulguru Institute of Technology and Science, Nagpur",130263,Civil
+"Kavikulguru Institute of Technology and Science, Nagpur",131269,Civil
+"Kavikulguru Institute of Technology and Science, Nagpur",132658,Civil
+"Kavikulguru Institute of Technology and Science, Nagpur",135964,Civil
